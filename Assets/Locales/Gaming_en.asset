@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Gaming_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 5009802be6e142c498d6631b73b08cf6, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 947604432339861513
+  m_TableData:
+  - m_Id: 70800347136
+    m_Localized: Auto Saving
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1093990418452480
+    m_Localized: '{KeyName.KeyName} Sleep, end the loop'
+    m_Metadata:
+      m_Items:
+      - rid: 947604432339861513
+  - m_Id: 2493378424000512
+    m_Localized: '[{obj.interactKeyName}] Check'
+    m_Metadata:
+      m_Items:
+      - rid: 947604432339861513
+  - m_Id: 4293702143635456
+    m_Localized: '[ESC] Back'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4340903356067840
+    m_Localized: Messages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6097873935200256
+    m_Localized: Get new contact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6099284412526592
+    m_Localized: Got new clue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6099750991097856
+    m_Localized: Achievement Unlocked
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 947604432339861513
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0090477efae2030000d040e7b6db0800

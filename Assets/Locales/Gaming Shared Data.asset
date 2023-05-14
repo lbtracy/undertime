@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Gaming Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Gaming
+  m_TableCollectionNameGuidString: 5009802be6e142c498d6631b73b08cf6
+  m_Entries:
+  - m_Id: 70800347136
+    m_Key: auto_save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1093990418452480
+    m_Key: manuanlly_end_loop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2493378424000512
+    m_Key: interact_key_hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4293702143635456
+    m_Key: clue_ui_back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4340903356067840
+    m_Key: messages_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6097873935200256
+    m_Key: contact_unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6099284412526592
+    m_Key: clue_unlocked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6099750991097856
+    m_Key: achievement_unlock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10090839741534208
+    m_Key: bomb_det
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 947604364633571330
+  references:
+    version: 2
+    RefIds:
+    - rid: 947604364633571330
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680865039969
